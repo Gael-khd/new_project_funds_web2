@@ -1,0 +1,80 @@
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+     <meta charset="UTF-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Link in html</title>
+     <link rel="stylesheet" href="style.css">
+     <style>
+        body {
+          text-emphasis-color: linen;
+        }
+    </style>
+ </head>
+ <body>
+     <h1 style="color:rgb(122, 122, 129);text-align:center;">Fruits and Vegetables</h1>
+     <P align= "justify">Fruit and vegetables should be an important part of your daily diet. 
+         They are naturally good and contain vitamins and minerals that can help to keep you healthy. 
+         <br>They can also help protect against some diseases.
+         Most Australians will benefit from eating more fruit and vegetables as part of a well-balanced, 
+         regular diet and a healthy, active lifestyle.<br> There are many varieties of fruit and vegetables 
+         available and many ways to prepare, cook and serve them.<P>You should eat at least five serves of 
+         vegetables and two serves of fruit each day. 
+         
+     </P>
+    <h4> On this page</h4>
+    <ul>
+        <li><strong><a href="#vit">Vitamins and minerals in fruit and vegetables</a></strong></li>
+        <li><strong>Fruits and vegetables and protection against diseases</strong> </li>
+        <li> <strong><a target="_blank" href="https://www.betterhealth.vic.gov.au/health/healthyliving/fruit-and-vegetables#bhc-content">Fruits and vegetables for good health</a></strong>  </li>
+        <li><strong><a href="#fruit">Types of fruits</a></strong></li>
+    </ul>
+    <p1 align="justify">
+        Different fruits and vegetables contain different nutrients. The Australian dietary guidelines 
+        recommend that adults eat at least five kinds of vegetable and two kinds of fruit every day. 
+        A national nutrition survey conducted by 
+        the Australian Government showed that Australians of all ages do not eat enough vegetables and fruit.<p>
+    </p1>
+
+    <p2>Children have a smaller stomach capacity and higher energy needs than adults. 
+        They cannot eat the same serving sizes as adults. <br>However, you should encourage your children to eat a variety of fruits and vegetables. 
+        By eating well, your children will have the energy they need to play, concentrate better, learn,<br> sleep better and build stronger teeth and bones.Building 
+        good habits in their early years can also provide the protection of a healthy diet throughout their lives.</p2>
+     
+        <h2 align="center" id="vit">Vitamins and minerals in fruit and vegetables </h2>
+    <p3> Fruits and vegetables contain many vitamins and minerals that are good for your health. 
+        These include vitamins A (beta-carotene), C and E, magnesium, zinc, phosphorous and folic acid.<br>
+        Folic acid may reduce blood levels of homocysteine, a substance that may be a risk factor for coronary 
+        heart disease.  <br>The Dietary Guidelines for Americans calls for all Americans to eat more nutrient-rich foods. 
+        Fruits and vegetables can be great sources of the following important nutrients. 
+        Click the links to see a list of fruits & veggies that carry the label of "high" and "good" sources for these nutrients.</p3>
+
+        <h2 align="center">Fruit and vegetables and protection against disease</h2>
+    <p4> Vegetables and fruit contain phytochemicals, or plant chemicals. These biologically active substances can help to protect you from some diseases.<br> Scientific research 
+        shows that if you regularly eat lots of fruit and vegetables, you have a lower risk of:</p4>
+        <dl>
+            <dt>Diabetes Type 2</dt>
+            <dd>With type 2 diabetes, the body either doesn't produce enough insulin, or it resists insulin.
+                Symptoms include increased thirst, frequent urination, hunger, fatigue and blurred vision. In some cases, there may be no symptoms.</dd>
+            
+            <dt>Stroke</dt>
+            <dd>A stroke occurs when the blood supply to part of your brain is interrupted or reduced</dd>
+            <dt> Heart (cardiovascular) disease</dt>
+            <dd> when fruits and vegetables are eaten as food, not taken as supplements</dd>
+        </dl>
+        <h2 align="center" id="fruit"> Types of fruit</h2>
+        <p5>Fruit is the sweet, fleshy, edible part of a plant. It generally contains seeds. Fruits are usually eaten raw, 
+            although some varieties can be cooked. They come in a wide variety of colours, shapes and flavours. 
+            Common types of fruits that are readily available include:</p5>
+            <ol type="I" >
+                <li>Apples and pears </li>
+                <li>Citrus – oranges, grapefruits, mandarins and limes </li>
+                <li>Stone fruit – nectarines, apricots, peaches and plums</li>
+                <li>Melons – watermelons, rockmelons and honeydew melons</li>
+            </ol>
+            <h2 align="center">Fruit and vegetables for good health</h2>
+
+
+ </body>
+ </html>
